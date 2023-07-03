@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/vite-react-deploy/",
+  base: "/2023-03-mar-react-movie-app/",
 });
